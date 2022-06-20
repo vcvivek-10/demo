@@ -32,12 +32,6 @@ function scrollFunc(){
     else{
         document.getElementById("scroll-up").classList.remove("slideup");
     }
-    // if(document.body.scrollTop >200 || document.documentElement.scrollTop >200){
-    //     document.getElementById("scroll-up").className="slideup";
-    // }
-    // else{
-    //     document.getElementById("scroll-up").className="slidedown"
-    // }
 }
 
 const scrollTop = () =>{
